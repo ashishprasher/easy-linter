@@ -1,0 +1,32 @@
+{
+  "name": "easy-linter",
+  "version": "1.0.0",
+  "description": "This module comes up with pre-configured linting rules. This will make implementing linting on the project easy and fast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ashishprasher/easy-linter.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "beatufication",
+    "coding",
+    "standards"
+  ],
+  "author": "Ashish Prasher <prasher.ashish@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishprasher/easy-linter/issues"
+  },
+  "homepage": "https://github.com/ashishprasher/easy-linter#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-restricted-globals": "^0.2.0"
+  }
+}
