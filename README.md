@@ -8,4 +8,4 @@ add the following json object.
 {
   "extends": "./node_modules/easy-linter/index.js"
 }
-3. You can create .eslintignore file in root directory of the project to ignore directory/files from linting rules
+3. You can create .eslintignore file in root directory of the project to ignore directory/files from linting rules.
