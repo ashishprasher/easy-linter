@@ -152,10 +152,10 @@ module.exports = {
 
     // disallow use of multiple spaces
     'no-multi-spaces': [
-      'off',
+      'error',
       {
         ignoreEOLComments: false,
-        exceptions: { 'ImportDeclaration': true, 'VariableDeclarator': true, 'Property': true }
+        exceptions: { 'Property': true }
       }
     ],
 
