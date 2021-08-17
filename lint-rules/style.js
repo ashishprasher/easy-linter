@@ -170,7 +170,7 @@ module.exports = {
     'jsx-quotes': ['off', 'prefer-double'],
 
     // enforces spacing between keys and values in object literal properties
-    'key-spacing': ['error', { beforeColon: false, afterColon: true, align : "value"}],
+    'key-spacing': ['error', { beforeColon: false, afterColon: true}],
 
     // require a space before & after certain keywords
     'keyword-spacing': [

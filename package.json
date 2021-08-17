@@ -1,6 +1,6 @@
 {
   "name": "easy-linter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This module comes up with pre-configured linting rules. This will make implementing linting on the project easy and fast.",
   "main": "index.js",
   "scripts": {

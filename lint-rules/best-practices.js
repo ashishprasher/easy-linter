@@ -155,7 +155,7 @@ module.exports = {
       'error',
       {
         ignoreEOLComments: false,
-        exceptions: { 'Property': true }
+        exceptions: { 'Property': false }
       }
     ],
 
