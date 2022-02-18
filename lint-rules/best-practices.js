@@ -182,7 +182,7 @@ module.exports = {
     // disallow parameter object manipulation except for specific exclusions
     // rule: https://eslint.org/docs/rules/no-param-reassign.html
     'no-param-reassign': [
-      'error',
+      'off',
       {
         props: true,
         ignorePropertyModificationsFor: [

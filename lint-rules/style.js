@@ -361,7 +361,7 @@ module.exports = {
 
     // disallow use of unary operators, ++ and --
     // https://eslint.org/docs/rules/no-plusplus
-    'no-plusplus': 'error',
+    'no-plusplus': ['error', { "allowForLoopAfterthoughts": true } ],
 
     // disallow certain syntax forms
     // https://eslint.org/docs/rules/no-restricted-syntax
