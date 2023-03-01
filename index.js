@@ -10,7 +10,7 @@ module.exports = {
     './lint-rules/security.js'
   ],
   parserOptions: {
-    ecmaVersion: 2019
+    ecmaVersion: 2022
   },
   rules: {}
 };
