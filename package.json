@@ -1,6 +1,6 @@
 {
   "name": "easy-linter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This module comes up with pre-configured linting rules. This will make implementing linting on the project easy and fast.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ashishprasher/easy-linter#readme",
   "dependencies": {
-    "eslint": "^6.5.1",
+    "eslint": "^8.56.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-security": "^1.4.0",
     "eslint-restricted-globals": "^0.2.0"
